@@ -35,9 +35,9 @@ to be updated
 
 
 ## Materials
-- Journal article[Advanced large language models and visualization tools for data analytics learning](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1418006/abstract)
-- Conference extended abstract[Empowering Data Analytics Learning: Leveraging Advanced Large Language Models and Visualization Tools](https://www.researchgate.net/publication/382695760_Empowering_Data_Analytics_Learning_Leveraging_Advanced_Large_Language_Models_and_Visualization_Tools)
-- Conference presentation 
+- Journal article [open access here](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1418006/abstract)
+- Conference extended abstract at IACEE 2024 [free access here](https://www.researchgate.net/publication/382695760_Empowering_Data_Analytics_Learning_Leveraging_Advanced_Large_Language_Models_and_Visualization_Tools)
+- Conference presentation [access here](https://github.com/jvalverr/data-analytics-education/blob/main/materials/session7-JorgeValverde-IACEE-24.pdf)
 
 ## Citation
 
