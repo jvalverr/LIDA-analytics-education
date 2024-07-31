@@ -37,9 +37,9 @@ to be updated
 
 ## Citation
 
-## Citation
-
 When referencing this project, please use the following citation formats:
+
+**Journal Article:**
 
 Valverde-Rebaza, J., Gonzalez, A., Navarro-Hinojosa, O., & Noguez, J. (2024). *Advanced Large Language Models & Visualization Tools for Data Analytics Learning: An Empowering Approach for Fostering Competencies Among Non-Computational Professionals and Students*. Frontiers in Education, vol 9. DOI: [10.3389/feduc.2024.1418006](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1418006/abstract).
 
@@ -51,8 +51,9 @@ Valverde-Rebaza, J., Gonzalez, A., Navarro-Hinojosa, O., & Noguez, J. (2024). *A
   volume={9},
   year={2024},
   doi={10.3389/feduc.2024.1418006}
-}'''
+}
 
+**Conference Extended-Abstract:**
 Valverde-Rebaza, J., Gonzalez, A., Navarro-Hinojosa, O., & Noguez, J. (2024). Empowering Data Analytics Learning: Leveraging Advanced Large Language Models and Visualization Tools. Proceedings of the 19th World Conference on Continuing Engineering Education, IACEE 2024, pp. 47-49. ISBN: 978-1-7327114-3-3.
 
 ```bibtex
@@ -65,4 +66,4 @@ Valverde-Rebaza, J., Gonzalez, A., Navarro-Hinojosa, O., & Noguez, J. (2024). Em
  isbn = {978-1-7327114-3-3},
  publisher = {IACEE},
  year = {2024}
-}'''
+}
