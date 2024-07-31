@@ -52,6 +52,7 @@ Valverde-Rebaza, J., Gonzalez, A., Navarro-Hinojosa, O., & Noguez, J. (2024). *A
   year={2024},
   doi={10.3389/feduc.2024.1418006}
 }
+```
 
 **Conference Extended-Abstract:**
 Valverde-Rebaza, J., Gonzalez, A., Navarro-Hinojosa, O., & Noguez, J. (2024). Empowering Data Analytics Learning: Leveraging Advanced Large Language Models and Visualization Tools. Proceedings of the 19th World Conference on Continuing Engineering Education, IACEE 2024, pp. 47-49. ISBN: 978-1-7327114-3-3.
@@ -67,3 +68,4 @@ Valverde-Rebaza, J., Gonzalez, A., Navarro-Hinojosa, O., & Noguez, J. (2024). Em
  publisher = {IACEE},
  year = {2024}
 }
+```
