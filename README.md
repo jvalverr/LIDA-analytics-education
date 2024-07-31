@@ -34,6 +34,10 @@ to be updated
 
 
 
+## Materials
+- Journal article[Advanced large language models and visualization tools for data analytics learning](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1418006/abstract)
+- Conference extended abstract[Empowering Data Analytics Learning: Leveraging Advanced Large Language Models and Visualization Tools](https://www.researchgate.net/publication/382695760_Empowering_Data_Analytics_Learning_Leveraging_Advanced_Large_Language_Models_and_Visualization_Tools)
+- Conference presentation 
 
 ## Citation
 
@@ -41,10 +45,10 @@ When referencing this project, please use the following citation formats:
 
 **Journal Article:**
 
-Valverde-Rebaza, J., Gonzalez, A., Navarro-Hinojosa, O., & Noguez, J. (2024). *Advanced Large Language Models & Visualization Tools for Data Analytics Learning: An Empowering Approach for Fostering Competencies Among Non-Computational Professionals and Students*. Frontiers in Education, vol 9. DOI: [10.3389/feduc.2024.1418006](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1418006/abstract).
+Valverde-Rebaza, J., Gonzalez, A., Navarro-Hinojosa, O., & Noguez, J. (2024). *Advanced large language models and visualization tools for data analytics learning*. Frontiers in Education, vol 9. DOI: [10.3389/feduc.2024.1418006](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1418006/abstract).
 
 ```bibtex
-@article{valverde2024advanced,
+@article{valverde:frontiers:24,
   title={Advanced large language models and visualization tools for data analytics learning},
   author={Valverde-Rebaza, J. and Gonzalez, A. and Navarro-Hinojosa, O. and Noguez, J.},
   journal={Frontiers in Education},
@@ -55,6 +59,7 @@ Valverde-Rebaza, J., Gonzalez, A., Navarro-Hinojosa, O., & Noguez, J. (2024). *A
 ```
 
 **Conference Extended-Abstract:**
+
 Valverde-Rebaza, J., Gonzalez, A., Navarro-Hinojosa, O., & Noguez, J. (2024). Empowering Data Analytics Learning: Leveraging Advanced Large Language Models and Visualization Tools. Proceedings of the 19th World Conference on Continuing Engineering Education, IACEE 2024, pp. 47-49. ISBN: 978-1-7327114-3-3.
 
 ```bibtex
