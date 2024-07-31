@@ -41,19 +41,21 @@ to be updated
 
 When referencing this project, please use the following citation formats:
 
-Valverde-Rebaza, J., Gonzalez, A., Navarro-Hinojosa, O., & Noguez, J. (2024). *Advanced Large Language Models & Visualization Tools for Data Analytics Learning: An Empowering Approach for Fostering Competencies Among Non-Computational Professionals and Students*. Frontiers in Education. DOI: [10.3389/feduc.2024.1418006](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1418006/abstract).
+Valverde-Rebaza, J., Gonzalez, A., Navarro-Hinojosa, O., & Noguez, J. (2024). *Advanced Large Language Models & Visualization Tools for Data Analytics Learning: An Empowering Approach for Fostering Competencies Among Non-Computational Professionals and Students*. Frontiers in Education, vol 9. DOI: [10.3389/feduc.2024.1418006](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1418006/abstract).
 
 ```bibtex
 @article{valverde2024advanced,
-  title={Advanced Large Language Models \& Visualization Tools for Data Analytics Learning: An Empowering Approach for Fostering Competencies Among Non-Computational Professionals and Students},
+  title={Advanced large language models and visualization tools for data analytics learning},
   author={Valverde-Rebaza, J. and Gonzalez, A. and Navarro-Hinojosa, O. and Noguez, J.},
   journal={Frontiers in Education},
+  volume={9},
   year={2024},
   doi={10.3389/feduc.2024.1418006}
-}
+}```
 
 Valverde-Rebaza, J., Gonzalez, A., Navarro-Hinojosa, O., & Noguez, J. (2024). Empowering Data Analytics Learning: Leveraging Advanced Large Language Models and Visualization Tools. Proceedings of the 19th World Conference on Continuing Engineering Education, IACEE 2024, pp. 47-49. ISBN: 978-1-7327114-3-3.
 
+```bibtex
 @inproceedings{Valverde:iacee:24b, 
  author = {Jorge Valverde-Rebaza and Aram Gonzalez and Octavio Navarro-Hinojosa and Julieta Noguez},
  title = {{Empowering Data Analytics Learning: Leveraging Advanced Large Language Models and Visualization Tools}},
@@ -63,4 +65,4 @@ Valverde-Rebaza, J., Gonzalez, A., Navarro-Hinojosa, O., & Noguez, J. (2024). Em
  isbn = {978-1-7327114-3-3},
  publisher = {IACEE},
  year = {2024}
-}
+}```
