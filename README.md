@@ -35,8 +35,9 @@ to be updated
 
 
 ## Materials
-- Journal article at Frontiers in Education [open access here](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1418006/abstract)
-- Conference extended abstract at IACEE 2024 [free access here](https://www.researchgate.net/publication/382695760_Empowering_Data_Analytics_Learning_Leveraging_Advanced_Large_Language_Models_and_Visualization_Tools)
+- Journal article published at Frontiers in Education [open access here](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1418006/full)
+- Data from Case Study used to obtain results for our journal article [available here](https://www.frontiersin.org/api/v3/articles/1418006/file/Data_Sheet_1.csv/1418006_supplementary-materials_datasheets_1_csv/1?isPublishedV2=false)
+- Conference extended abstract published at proceedings of IACEE 2024 [free access here](https://www.researchgate.net/publication/382695760_Empowering_Data_Analytics_Learning_Leveraging_Advanced_Large_Language_Models_and_Visualization_Tools)
 - Conference presentation [access here](https://github.com/jvalverr/data-analytics-education/blob/main/materials/session7-JorgeValverde-IACEE-24.pdf)
 
 ## Citation
@@ -45,14 +46,15 @@ When referencing this project, please use the following citation formats:
 
 **Journal Article:**
 
-Valverde-Rebaza, J., Gonzalez, A., Navarro-Hinojosa, O., & Noguez, J. (2024). *Advanced large language models and visualization tools for data analytics learning*. Frontiers in Education, vol 9. DOI: [10.3389/feduc.2024.1418006](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1418006/abstract).
+Valverde-Rebaza, J., González, A., Navarro-Hinojosa, O., & Noguez, J. (2024). *Advanced large language models and visualization tools for data analytics learning*. Front. Educ. 9:1418006. DOI: [10.3389/feduc.2024.1418006](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1418006/abstract).
 
 ```bibtex
 @article{valverde:frontiers:24,
   title={Advanced large language models and visualization tools for data analytics learning},
-  author={Valverde-Rebaza, J. and Gonzalez, A. and Navarro-Hinojosa, O. and Noguez, J.},
-  journal={Frontiers in Education},
+  author={Valverde-Rebaza, J. and González, A. and Navarro-Hinojosa, O. and Noguez, J.},
+  journal={Front. Educ.},
   volume={9},
+  pages={1418006},
   year={2024},
   doi={10.3389/feduc.2024.1418006}
 }
@@ -60,11 +62,11 @@ Valverde-Rebaza, J., Gonzalez, A., Navarro-Hinojosa, O., & Noguez, J. (2024). *A
 
 **Conference Extended-Abstract:**
 
-Valverde-Rebaza, J., Gonzalez, A., Navarro-Hinojosa, O., & Noguez, J. (2024). Empowering Data Analytics Learning: Leveraging Advanced Large Language Models and Visualization Tools. Proceedings of the 19th World Conference on Continuing Engineering Education, IACEE 2024, pp. 47-49. ISBN: 978-1-7327114-3-3.
+Valverde-Rebaza, J., González, A., Navarro-Hinojosa, O., & Noguez, J. (2024). Empowering Data Analytics Learning: Leveraging Advanced Large Language Models and Visualization Tools. Proceedings of the 19th World Conference on Continuing Engineering Education, IACEE 2024, pp. 47-49. ISBN: 978-1-7327114-3-3.
 
 ```bibtex
 @inproceedings{Valverde:iacee:24b, 
- author = {Jorge Valverde-Rebaza and Aram Gonzalez and Octavio Navarro-Hinojosa and Julieta Noguez},
+ author = {Valverde-Rebaza, J. and González, A. and Navarro-Hinojosa, O. and Noguez, J.},
  title = {{Empowering Data Analytics Learning: Leveraging Advanced Large Language Models and Visualization Tools}},
  booktitle = {Proceedings of The 19th World Conference on Continuing Engineering Education},
  series = {IACEE 2024},
